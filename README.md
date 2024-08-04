@@ -1,0 +1,63 @@
+
+# Job Finder
+
+This project is a web application built with React.js and Node, aiming to design user friendly web application. It allows users to book the train tickets easily.
+
+
+## Features
+
+- Access Different Stations
+- Book Tickets
+- Access to find seats available
+- User Friendly
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Sudharshan1-4-0-4/stepout.git
+```
+
+Go to the project directory
+
+```bash
+  cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+->open another terminal
+
+```bash
+  cd backend
+```
+Start the server
+```bash
+  node index.js
+```
+
+
+
+
+
+## Tech Stack
+
+**Client:** React, css, html
+
+**Server:** Node, Express
+
+**Database:** sqlite
+
+
+
