@@ -1,5 +1,5 @@
 
-# Job Finder
+# Assignment
 
 This project is a web application built with React.js and Node, aiming to design user friendly web application. It allows users to book the train tickets easily.
 
