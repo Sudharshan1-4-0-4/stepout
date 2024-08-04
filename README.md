@@ -2,6 +2,7 @@
 # Assignment
 
 This project is a web application built with React.js and Node, aiming to design user friendly web application. It allows users to book the train tickets easily.
+Admin can have direct access to database so he can able to handle the things like add new trains updating seats etc...,
 
 
 ## Features
